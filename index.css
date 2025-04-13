@@ -1,0 +1,25 @@
+.photos {
+    flex-wrap: wrap;
+gap: 10px;
+}
+
+
+    
+
+img {
+    width: 150px;
+    height: 200px;
+}
+.navigation{
+    background-color: aqua;
+}
+footer {
+    border: 1px;
+    background-color: aqua;
+    margin-top: 20px;
+    height: 120px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
