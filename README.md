@@ -1,6 +1,6 @@
 # **photos-site**
 #### A photo gallery for showcasing, *Last updated: 2025-04-13*
-#### By **Your Name**
+#### By **Hafifa**
 
 ---
 
@@ -41,7 +41,7 @@ To run the app locally:
 
 ## 🤝 Support & Contact
 
-Questions, issues, or feedback? Feel free to contact me via email: **your.email@example.com**.
+Questions, issues, or feedback? Feel free to contact me via email: **hafifahussein5@gmail.com**.
 
 Contributions are welcome—feel free to fork the repo and submit a pull request!
 
